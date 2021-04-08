@@ -1,0 +1,92 @@
+html{
+    background-image: url("images/Code.jpg");
+    background-color: blue;
+    background-blend-mode: multiply;
+    background-size: cover;
+}
+
+.nav {    
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    overflow: hidden;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+}
+
+a {
+    display: inline-block;
+    padding: 10px;
+    background-color: #EAB464;
+    font-family: 'Gill Sans MT','sans-serif', 'Gill Sans',  Calibri, 'Trebuchet MS';
+    font-size: 2em;    
+}
+
+a:hover {
+        background:linear-gradient(to bottom, #EAB464 5%, black 100%);
+}
+
+h1{
+    margin: 0px;
+    padding: 20px;
+    background-color:;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #EAB464;
+}
+
+.background{
+    
+}
+
+p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #EAB464;
+}
+
+.Greece {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+          
+}
+
+footer {
+    padding: 0;
+    margin: 0;
+    text-align: center;    
+    color: #EAB464;
+}
+h2 {
+    margin: 0px;
+    padding: 20px;
+    background-color:;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #EAB464;
+}
+
+address b {
+    margin: 0px;
+    padding: 20px;
+    background-color:;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #EAB464;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
